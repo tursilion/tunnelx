@@ -1,0 +1,38 @@
+Level 1
+-'stationary' meteors - 1/4 speed
+
+Level 2
+-'stationary' meteors - 1/2 speed
+
+Level 3
+-meteors drift - 1/2 speed
+
+Level 4
+-meteors drift - full speed (and for the rest of the game)
+
+Level 5 (Bonus stage)
+-All 'P's
+
+Level 6
+-meteors and first enemy
+
+Level 7
+-meteors and second enemy
+
+Level 8
+-meteors and third enemy
+
+Level 9
+-meteors and all enemies
+
+Enemy 0: Meteor
+Enemy 1: Moves towards you
+Enemy 2: Straight and fast
+Enemy 3: To Center movement
+Enemy 4: (P) icon (turns enemies to coins)
+Enemy 5: Coin (countdown on Z)
+
+Level/2 is max number of enemies.
+
+The corners of the screen will go solid when an enemy is about to hit the ship!
+
